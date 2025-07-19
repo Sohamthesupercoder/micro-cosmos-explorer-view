@@ -61,14 +61,7 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				},
-				// Custom scientific colors
-				'microscope-blue': 'hsl(var(--microscope-blue))',
-				'discovery-purple': 'hsl(var(--discovery-purple))',
-				'specimen-green': 'hsl(var(--specimen-green))',
-				'fluorescent-pink': 'hsl(var(--fluorescent-pink))',
-				'primary-glow': 'hsl(var(--primary-glow))',
-				'accent-glow': 'hsl(var(--accent-glow))'
+				}
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
